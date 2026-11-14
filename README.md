@@ -4,4 +4,4 @@
 
 最强奶龙队，AIC 2026 AI+集成电路，团队编号 AIC-2026-12622244。
 
-本仓库是项目展示站点，由 GitHub Pages 发布。
+在线地址：https://jingyueqian21-eng.github.io/
